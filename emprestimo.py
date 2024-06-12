@@ -18,6 +18,3 @@ class Emprestimo:
     def data_evolucao(self):
         return self.__data_devolucao
 
-# acho que será preciso inserir um set para data de emprestimo e devolução...
-# mas não tenho certeza porém não tenho cabeça para pensar mais kkkk
-# qualquer coisa fale comigo no wpp, se precisar de ajuda
